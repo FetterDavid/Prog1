@@ -1,0 +1,5 @@
+apple 01 200
+melon 02 500
+banana 03 600
+kivi 04 550
+peach 05 300
